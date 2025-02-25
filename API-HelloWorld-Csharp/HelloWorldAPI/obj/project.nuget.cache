@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zgvqlVD2M3g=",
+  "success": true,
+  "projectFilePath": "/home/uriel/Documentos/programaçao/APIs/API-HelloWorld-Csharp/HelloWorldAPI/HelloWorldAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/uriel/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/home/uriel/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/home/uriel/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.1/microsoft.aspnetcore.app.ref.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
