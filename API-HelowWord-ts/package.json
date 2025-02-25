@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@types/node": "^22.13.5",
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  },
+  "name": "api-helowword-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "ts-node-dev": "^2.0.0"
+  }
+}
